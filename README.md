@@ -1,0 +1,2 @@
+# Emotion-Detection-in-Text-Using-Natural-Language-Processing-and-Machine-Learning
+The goal of the Emotion Analysis from Text project is to teach the computer to understand and recognize emotions in written text. We want the computer to read sentences and figure out if the writer is happy, sad, angry, or feeling other emotions. This can be useful for things like understanding customer reviews or analyzing social media posts.
